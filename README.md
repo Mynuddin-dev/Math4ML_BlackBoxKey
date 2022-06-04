@@ -14,3 +14,4 @@
 
 - [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018 | Gilbert Strang](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 - [Computational Linear Algebra | Rachel Thomas](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+  - [Course materials](https://github.com/fastai/numerical-linear-algebra)
